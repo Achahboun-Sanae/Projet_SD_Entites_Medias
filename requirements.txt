@@ -5,3 +5,4 @@ neo4j
 numpy
 pandas
 scikit-learn
+matplotlib      
